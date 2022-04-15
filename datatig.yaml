@@ -28,3 +28,18 @@ types:
   markdown_body_is_field: body
   list_fields:
   - title
+- id: resources
+  directory: resources
+  fields:
+  - id: title
+    key: title
+    title: Title
+  - id: subtitle
+    key: subtitle
+    title: Sub-Title
+  - id: body
+    key: body
+    title: Body
+  markdown_body_is_field: body
+  list_fields:
+  - title
