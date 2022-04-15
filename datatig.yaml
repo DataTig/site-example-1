@@ -40,6 +40,10 @@ types:
   - id: body
     key: body
     title: Body
+  - id: tags
+    key: tags
+    title: Tags
+    type: list-strings
   markdown_body_is_field: body
   list_fields:
   - title
