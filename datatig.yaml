@@ -24,7 +24,7 @@ types:
   - id: deleted
     key: deleted
     title: Deleted
-    type: boolean
+    type: list-strings
   markdown_body_is_field: body
   list_fields:
   - title
