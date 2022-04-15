@@ -21,6 +21,10 @@ types:
     key: active
     title: Active
     type: boolean
+  - id: deleted
+    key: deleted
+    title: Deleted
+    type: boolean
   markdown_body_is_field: body
   list_fields:
   - title
