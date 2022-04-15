@@ -1,0 +1,26 @@
+title: Example 1
+description: Example data to test against
+types:
+- id: blogs
+  directory: blogs
+  fields:
+  - id: title
+    key: title
+    title: Title
+  - id: subtitle
+    key: subtitle
+    title: Sub-Title
+  - id: body
+    key: body
+    title: Body
+  - id: tags
+    key: tags
+    title: Tags
+    type: list-strings
+  - id: active
+    key: active
+    title: Active
+    type: boolean
+  markdown_body_is_field: body
+  list_fields:
+  - title
