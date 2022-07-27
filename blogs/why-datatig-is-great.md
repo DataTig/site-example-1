@@ -1,5 +1,5 @@
 ---
-title: Why DataTig is great
+title: Why DataTig is great!
 tags:
   - DataTig
   - Great
